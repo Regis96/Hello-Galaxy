@@ -1,2 +1,2 @@
-# Hello-Galaxy
+# Hello Galaxy
 Galaxy>world
