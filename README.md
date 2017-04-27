@@ -1,2 +1,2 @@
-# Hello Galaxy
-Galaxy>world
+# Pokemon themed threads
+Taught by @DebyMF
